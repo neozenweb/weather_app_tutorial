@@ -12,3 +12,4 @@ To install from your terminal:
 `cd weather_app_tutorial` => `npm install` 
 
 #### This application was created with Node.js, Express, React and the Open Weather Map API found here: https://openweathermap.org/api
+"# weather_app_tutorial" 
